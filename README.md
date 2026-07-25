@@ -228,6 +228,156 @@ Laptop Recommendation System that recommends laptops based on user needs.
 
 ---
 
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmadony&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadony&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ What I'm Working On
+
+```text
+🚀 Building Full-Stack Web Applications
+
+📚 Learning Node.js & Express.js
+
+🗄️ Exploring MongoDB
+
+🎯 Improving Backend Development Skills
+
+🌍 Looking for Real-World Projects
+
+💡 Writing Clean & Maintainable Code
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master the MERN Stack
+- ✅ Build production-ready applications
+- ✅ Learn TypeScript
+- ✅ Learn Next.js
+- ✅ Contribute to Open Source
+- ✅ Land my first Full-Stack Developer role
+
+---
+
+# 📂 My Development Workflow
+
+```text
+       Idea 💡
+          │
+          ▼
+   Planning 📋
+          │
+          ▼
+    Design 🎨
+          │
+          ▼
+    Development 💻
+          │
+          ▼
+      Testing 🧪
+          │
+          ▼
+      Deployment 🚀
+          │
+          ▼
+ Continuous Improvement ♻️
+```
+
+---
+
+# ☕ Fun Facts
+
+- 💙 Barcelona Fan
+- ⚽ Lionel Messi is my favorite player
+- 🌙 I enjoy coding at night
+- 📖 I believe learning never stops
+- 🚀 Every project teaches me something new
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+| Experience | Focus |
+|------------|------|
+| 🌐 Frontend | React |
+| ⚙ Backend | Node.js |
+| 🗄 Database | MongoDB & MySQL |
+| 🔧 Tools | Git & GitHub |
+| 🚀 Goal | Become a Professional Full-Stack Developer |
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+If you're interested in collaborating, discussing web development, or building exciting projects together, feel free to reach out!
+
+</div>
+
+<p align="center">
+
+<a href="mailto:ahmadalsmadi2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/ahmad-alsmadi-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/ahmadony">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:2563eb&section=footer"/>
+
+### ⭐ Thanks for visiting my profile!
+
+**Happy Coding 🚀**
+
+</div>
+
 # 🌍 Connect With Me
 
 <p align="center">
