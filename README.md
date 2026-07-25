@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" />
-
 # Ahmad Alsmadi
 
 ### Full-Stack Web Developer
