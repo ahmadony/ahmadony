@@ -60,7 +60,7 @@ A modern e-commerce web application built using React.
 
 - Product browsing
 - Shopping cart functionality
-- Product filtering
+- Tracking product
 - Responsive design
 - API integration
 
