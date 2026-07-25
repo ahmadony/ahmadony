@@ -1,12 +1,18 @@
 <div align="center">
 
+<img src="assets/banner.png" width="100%" />
+
 # Ahmad Alsmadi
 
 ### Full-Stack Web Developer
 
-Building modern web applications with React, JavaScript, and Node.js.
+Building modern, responsive, and scalable web applications.
 
-[Portfolio](https://your-portfolio.com) • [LinkedIn](https://linkedin.com/in/ahmad-alsmadi-dev) • [Email](mailto:ahmadalsmadi2004@gmail.com)
+<p>
+<a href="https://github.com/ahmadony">GitHub</a> •
+<a href="https://linkedin.com/in/ahmad-alsmadi-dev">LinkedIn</a> •
+<a href="mailto:ahmadalsmadi2004@gmail.com">Email</a>
+</p>
 
 </div>
 
@@ -14,9 +20,11 @@ Building modern web applications with React, JavaScript, and Node.js.
 
 ## 👋 About Me
 
-I'm a Computer Science graduate from Jordan passionate about building clean, responsive, and user-friendly web applications.
+I'm Ahmad Alsmadi, a Computer Science graduate and Full-Stack Web Developer passionate about creating modern web applications.
 
-I'm currently focusing on the **MERN Stack** and enjoy turning ideas into real-world projects while continuously improving my frontend and backend development skills.
+I enjoy building clean user interfaces, developing backend systems, and continuously improving my skills through real-world projects.
+
+Currently focusing on the **MERN Stack** and expanding my knowledge in backend development.
 
 ---
 
@@ -24,91 +32,116 @@ I'm currently focusing on the **MERN Stack** and enjoy turning ideas into real-w
 
 ### Frontend
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Vite](https://skillicons.dev/icons?i=vite)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 
 ### Backend
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### Database
+### Databases
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQL Server](https://skillicons.dev/icons?i=sqlite)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=javascript,cs,java,cpp,python" />
 
 ### Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm" />
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 Ecommerce Website
+## 🛒 Ecommerce Website
 
-Modern e-commerce application built with React.
+A modern e-commerce web application built using React.
 
-**Highlights**
+### Features:
 
 - Product browsing
-- Shopping cart
-- Responsive UI
-- REST API Integration
+- Shopping cart functionality
+- Product filtering
+- Responsive design
+- API integration
 
-**Tech**
+### Technologies:
+
+React • JavaScript • CSS • REST API
+
+---
+
+## 💻 LapAdvisor - Laptop Recommendation System
+
+LapAdvisor is a web-based laptop recommendation system designed to help users choose the most suitable laptop based on their needs and preferences.
+
+The system analyzes user requirements and provides recommendations using a rule-based approach with filtering and comparison features.
+
+### Features:
+
+- Laptop recommendation engine
+- Product filtering and comparison
+- Laptop specifications display
+- User feedback and ratings
+- External store links
+- Admin dashboard management
+
+### Technologies:
+
+HTML • CSS • JavaScript • C# • ASP.NET Core MVC • SQL Server
+
+---
+
+## 🤖 React Chatbot
+
+A chatbot application developed while learning React fundamentals.
+
+### Features:
+
+- Component-based architecture
+- State management
+- User interactions
+- Dynamic UI updates
+
+### Technologies:
 
 React • JavaScript • CSS
 
 ---
 
-### 💻 LapAdvisor
-
-Laptop recommendation system that helps users choose the right laptop based on their needs.
-
----
-
-### 🎓 CampusConnect
-
-Student events management platform designed for universities.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadony&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadony&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Node.js
 - Express.js
 - MongoDB
 - REST APIs
 - Authentication
+- Backend Architecture
 
 ---
 
-## 📫 Contact
+# 🎯 Goals
 
-- 📧 ahmadalsmadi2004@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/ahmad-alsmadi-dev
-- 💻 GitHub: https://github.com/ahmadony
+- Build production-ready full-stack applications
+- Improve backend development skills
+- Learn TypeScript and Next.js
+- Contribute to open-source projects
+- Grow as a professional software developer
+
+---
+
+# 📫 Contact Me
+
+📧 Email:
+ahmadalsmadi2004@gmail.com
+
+💼 LinkedIn:
+linkedin.com/in/ahmad-alsmadi-dev
+
+💻 GitHub:
+github.com/ahmadony
+
 
 ---
 
